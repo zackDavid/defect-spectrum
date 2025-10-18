@@ -29,3 +29,10 @@ After implementing Case's function, the game presented a rendering hashtag `fail
 
 Case may have made other hashtag `errors` during development and there may be more latent hashtag `defects` in the game's lighting.
 
+# So where's the difference?
+
+Error-> Conceptual discrepancy.
+Fault -> Game Engine associated.
+Failure-> Calculation or input data associated.
+Defect-> Code and documentation discrepancy / certain conditions error.
+
