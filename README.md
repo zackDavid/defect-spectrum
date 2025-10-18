@@ -31,8 +31,8 @@ Case may have made other hashtag `errors` during development and there may be mo
 
 # So where's the difference?
 
-Error-> Conceptual discrepancy.
-Fault -> Game Engine associated.
-Failure-> Calculation or input data associated.
-Defect-> Code and documentation discrepancy / certain conditions error.
-
+- Error-> Conceptual discrepancy.
+- Fault -> Game Engine associated.
+- Failure-> Calculation or input data associated.
+- Defect-> Code and documentation discrepancy / certain conditions error.
+- Latent Defect -> non-visible defect -> it can exist in one or multiple parts of your game development cycle.
